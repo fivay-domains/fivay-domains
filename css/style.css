@@ -64,6 +64,15 @@ html,body {
   line-height: 1.8;
 }
 
+.alert-box {
+	background-color: #fffbcc;
+	color: #777;
+	font-size: 14px;
+	line-height: 23px;
+	padding: 13px 16px;
+	text-align: center;
+}
+
 h1,h2{
   font-family: 'Geometria-Bold';
 }
